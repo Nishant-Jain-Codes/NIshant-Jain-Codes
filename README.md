@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **C++,DsAlgp,CP**
+- 💬 Ask me about **C++,DsAlgo,CP**
 
 - 📫 How to reach me **mailidfornishantjain@gmail.com**
 
