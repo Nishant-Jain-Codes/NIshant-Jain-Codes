@@ -6,7 +6,7 @@
  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-jain-codes&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-jain-codes" /> </p>
 
-- 🔭 I’m currently working on **my-resume-website**
+- 🔭 I’m currently working on **DSA visualiser**
 
 - 🌱 I’m currently learning **Web Development**
 
