@@ -6,15 +6,15 @@
  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-jain-codes&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-jain-codes" /> </p>
 
-- 🔭 I’m currently working on **a social media website**
+- 🔭 I’m currently working on **a NGO website**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C++,DsAlgp,Competitive Programming,Web Development**
+- 💬 Ask me about **C++,DsAlgo,Competitive Programming,Web Development**
 
 - 📫 How to reach me **mailidfornishantjain@gmail.com**
 
-- ⚡ something about me : **i love lifting weights,reading scifi novels and runnig**
+- ⚡ something about me : **I love lifting weights,reading sci-fi novels, and running**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
