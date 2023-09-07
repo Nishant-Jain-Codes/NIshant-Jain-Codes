@@ -6,9 +6,7 @@
  </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant-jain-codes&label=Profile%20views&color=0e75b6&style=flat" alt="nishant-jain-codes" /> </p>
 
-- 🔭 I’m currently working on **a NGO website**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Mastering MERN**
 
 - 💬 Ask me about **C++,DsAlgo,Competitive Programming,Web Development**
 
